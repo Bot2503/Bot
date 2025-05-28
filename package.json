@@ -1,0 +1,21 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "A comprehensive Discord music bot built with Discord.js v14 and discord-player, featuring full music playback capabilities, queue management, and interactive controls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord-player": "^7.1.0",
+    "discord-player-youtubei": "^1.4.6",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
